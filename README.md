@@ -1,5 +1,7 @@
 # Státnicové okruhy
-Tematické okruhy ke státní závěrečné zkoušce (SZZ) v bakalářském studijním programu B0688A140007 Informatika a kybernetika ve zdravotnictví se specializací „Biomedicínská informatika“
+Užívejte dle libosti, v přápadě že najdete nějakou chybu, vytvořte issue pokusím se co nejdříve opravit. 
+
+Pokud byste byly dobrého srdce, **dejte tomuto repositáři hvězdičku**
 
 
 # Základy softwarového inženýrství
