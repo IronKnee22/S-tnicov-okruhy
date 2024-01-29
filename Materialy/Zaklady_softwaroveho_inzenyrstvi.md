@@ -1,0 +1,1 @@
+[Zpět na přehled okruhů](../README.md)
