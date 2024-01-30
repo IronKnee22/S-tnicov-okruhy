@@ -65,11 +65,10 @@ Existuje mnoho nástrojů pro vývoj softwaru a správu jeho životního cyklu. 
 
 ### **Správa požadavků a analýza:**
 1. **Confluence (Atlassian):** Nástroj pro sdílení a spolupráci na dokumentaci.
-2. **IBM Engineering Requirements Management DOORS:** Nástroje pro správu a sledování požadavků.
 
 ### **Monitorování a řízení chyb:**
-1. **New Relic, Datadog, Splunk:** Nástroje pro sledování výkonu a analýzu dat.
-2. **Bugzilla, Jira:** Systémy pro sledování chyb a správu úkolů.
+1. **Datadog:** Nástroje pro sledování výkonu a analýzu dat.
+2. **Jira:** Systémy pro sledování chyb a správu úkolů.
 
 ### **Správa konfigurace:**
 1. **Ansible, Puppet, Chef:** Nástroje pro automatizaci konfigurace a nasazování.
