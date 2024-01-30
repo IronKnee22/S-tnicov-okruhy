@@ -70,12 +70,9 @@ Existuje mnoho nástrojů pro vývoj softwaru a správu jeho životního cyklu. 
 1. **Datadog:** Nástroje pro sledování výkonu a analýzu dat.
 2. **Jira:** Systémy pro sledování chyb a správu úkolů.
 
-### **Správa konfigurace:**
-1. **Ansible, Puppet, Chef:** Nástroje pro automatizaci konfigurace a nasazování.
-
 ### **Dokumentace:**
-1. **Swagger, Apiary:** Nástroje pro dokumentaci API.
-2. **Doxygen, Sphinx:** Generátory dokumentace kódu.
+1. **Swagger:** Nástroje pro dokumentaci API.
+2. **Sphinx:** Generátory dokumentace kódu.
 
 Toto jsou pouze některé příklady a existuje mnoho dalších specializovaných nástrojů v každé kategorii. Volba konkrétních nástrojů závisí na potřebách týmu, technologiích používaných ve vašem projektu a preferencích vývojářů.
 
@@ -139,7 +136,7 @@ Síťové webové technologie se zabývají vývojem a provozem aplikací a slu�
    - **Node.js:** JavaScriptový framework na straně serveru, který umožňuje asynchronní I/O a tvorbu škálovatelných webových aplikací.
 
 ### 4. **Databázové Technologie:**
-   - **MySQL, PostgreSQL, Oracle:** Relační databázové systémy často používané pro ukládání dat webových aplikací.
+   - **MySQL:** Relační databázové systémy často používané pro ukládání dat webových aplikací.
 
    - **MongoDB:** NoSQL databázové systémy vhodné pro ukládání nestrukturovaných nebo polostrukturovaných dat.
 
@@ -156,10 +153,21 @@ Síťové webové technologie se zabývají vývojem a provozem aplikací a slu�
 ### 7. **Webové Servery:**
    - **Apache:** Open-source webový server, často v kombinaci s PHP.
 
-### 8. **Cloudové Služby:**
-   - **AWS, Azure:** Poskytují škálovatelnou infrastrukturu a různé služby pro vývoj webových aplikací v cloudu.
-
 Tyto technologie a nástroje společně umožňují vývojářům vytvářet moderní a výkonné webové aplikace a služby. Je důležité sledovat aktuální trendy a novinky v této oblasti, protože se technologie neustále vyvíjejí.
+
+# Cloud a webové API
+
+1. **Cloud (Oblak):**
+   - *Co to je?* Cloud, neboli "oblak," je zjednodušený termín pro označení internetu. Je to prostředí, kde můžete ukládat, spravovat a přistupovat k datům a aplikacím prostřednictvím internetu namísto lokálního úložiště nebo zařízení. Firmy poskytují cloudové služby, které umožňují uživatelům vzdálený přístup k různým zdrojům a funkcím.
+
+   - *Jak to funguje?* Cloudové služby jsou poskytovány prostřednictvím serverů, které jsou umístěny v datových centrech. Uživatelé mohou přistupovat k těmto službám prostřednictvím internetu a využívat je podle svých potřeb, aniž by potřebovali vlastnit nebo spravovat fyzické hardware.
+
+2. **Webové API (Application Programming Interface):**
+   - *Co to je?* Webové API je sada pravidel a protokolů, které umožňují komunikaci mezi různými softwarovými aplikacemi. Je to způsob, jakým programy komunikují a sdílejí data mezi sebou.
+
+   - *Jak to funguje?* Webová API poskytuje sadu konkrétních pravidel, která určují, jaké operace a funkce může aplikace provádět. Pomocí HTTP (Hypertext Transfer Protocol) nebo jiných protokolů může jedna aplikace zasílat požadavky na webové API jiné aplikace, aby získala nebo aktualizovala data. To umožňuje integraci různých systémů a aplikací.
+
+Kombinací obou - cloudových služeb a webových API - můžete vytvářet moderní, propojené a flexibilní aplikace, které mohou využívat širokou škálu zdrojů a poskytovat různé služby. Například můžete mít webovou aplikaci hostovanou v cloudu, která komunikuje s webovým API pro získání a aktualizaci dat.
 
 #  Softwarový proces
 
