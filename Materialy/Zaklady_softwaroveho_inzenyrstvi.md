@@ -328,4 +328,6 @@ Zde jsou některé z nejznámějších agilních metodik:
 ### 2. **Kanban:**
    - **Charakteristika:** Kanban je metoda založená na vizuálním řízení pracovního postupu. Práce je reprezentována na Kanbanové tabuli, která má sloupce představující různé fáze vývoje (např. "To Do", "In Progress", "Done"). Tým omezuje množství práce, kterou může provádět ve stejnou dobu (WIP - Work In Progress), což napomáhá udržet efektivitu.
 
+[Zpět na přehled okruhů](../README.md)
+
 Tyto metody jsou pružné a mohou být upraveny podle specifických potřeb projektu. Agilní přístup k vývoji softwaru je stále populárnější díky své schopnosti rychle reagovat na změny, zapojení zákazníků a zdůraznění efektivní spolupráce v týmu.
