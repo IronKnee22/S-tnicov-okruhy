@@ -353,3 +353,5 @@ Testování a nasazení jsou klíčovými fázemi v životním cyklu vývoje sof
    - Identifikovat oblasti pro optimalizaci a vylepšení do budoucna.
 
 Správné provedení testování a nasazení je klíčové pro zajištění spolehlivého a bezpečného běhu softwarového systému v produkčním prostředí. Automatizace, plánování a transparentnost jsou klíčové prvky úspěšného testování a nasazení softwaru.
+
+[Zpět na přehled okruhů](../README.md)
