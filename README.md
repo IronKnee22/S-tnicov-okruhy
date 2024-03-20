@@ -1,4 +1,4 @@
-# Státnicové okruhy
+# Státnicové okruhy 
 Užívejte dle libosti, v přápadě že najdete nějakou chybu, vytvořte issue pokusím se co nejdříve opravit. 
 
 Pokud byste byly dobrého srdce, **dejte tomuto repositáři hvězdičku**
