@@ -25,7 +25,7 @@ Experiment zahrnuje aktivní manipulaci s jednou nebo více proměnnými a sledo
 **Příklady** Laboratorní studie testující účinnost nového léku
 
 ## Metodika vytváření modelu, způsovy popisu modelů.
-Metodika vytvíření modelu jestrukturovanžý proces, který zahrnuje definici probléímu, formulaci koncweptuálního medelum matematickou formulaci implemaentaci, validaci
+Metodika vytvíření modelu jestrukturovanžý proces, který zahrnuje definici problému, formulaci konceptuálního medeum matematickou formulaci, implemaentaci, validaci
 
 Způsoby popisu modelů se liší podle účrelu a typu modelu a zahrnují matematické, grafické, simulační a symbolické dynamické popisy.
 
