@@ -1,0 +1,1 @@
+Metodika vytváření modelu, způsoby popisu modelů.
