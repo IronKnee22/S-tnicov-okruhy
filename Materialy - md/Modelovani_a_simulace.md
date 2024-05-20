@@ -1,10 +1,10 @@
 # Modelování a simulace
 
 ## Spojité modely
-Spojité modely představují systémy, kde se stav systému mění plunule v čase, k popisu se využívají diferenciální rovnice
+Spojité modely představují systémy, kde se stav systému mění plynule v čase, k popisu se využívají diferenciální rovnice
 
 **Příklady** Elektrické obvody - napětí a proud v obvodech  
-**Výhody** Schopnost přesně popsat fyzikální a inžernýrské procesy  
+**Výhody** Schopnost přesně popsat fyzikální a inženýrské procesy  
 **Nevýhody** Složité a výpočetně náročné najít analytická řešení  
 
 ## Diskrétní modely
