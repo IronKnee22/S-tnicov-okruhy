@@ -21,5 +21,9 @@ RUP
 
 # informacni systemy
 
+# Dabazove systemy
+relační dataový model
+kardinalita
+pravidla normálních forem
 
 
