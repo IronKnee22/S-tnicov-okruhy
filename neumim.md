@@ -28,5 +28,9 @@ pravidla normálních forem
 
 # Umělá inteligence a expertní systémy
 
+# Bezpečnost prenostu a zpracování dat
+IDS/IPS 
+jak funguje asymetrické šifrování
+
 
 
