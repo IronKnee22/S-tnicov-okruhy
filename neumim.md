@@ -26,4 +26,7 @@ relační dataový model
 kardinalita
 pravidla normálních forem
 
+# Umělá inteligence a expertní systémy
+
+
 
