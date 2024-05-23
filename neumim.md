@@ -32,5 +32,14 @@ pravidla normálních forem
 IDS/IPS 
 jak funguje asymetrické šifrování
 
+# Objektové orientované programovani
+
+# Bioinformatika
+předpovídání sekundrání struktury
+blosum
+
+# Pravděpodobnost a matematická statistika
+Obecné principy testování statistických hypotéz
+
 
 
