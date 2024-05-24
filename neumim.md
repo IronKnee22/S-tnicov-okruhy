@@ -40,6 +40,9 @@ blosum
 
 # Pravděpodobnost a matematická statistika
 Obecné principy testování statistických hypotéz
+parametrické vs neparametrické testy
+
+# Aplikovaná zdravotnická informatika
 
 
 
