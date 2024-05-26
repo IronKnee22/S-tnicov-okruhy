@@ -56,5 +56,8 @@ Princip brain mappingu.
 Interpolace.   
 Mapování amplitudy a frekvence.
 
+# Zpracování obrazu
+Pořádně se naučit furiorovy transformaci
+Komprese dat
 
 
