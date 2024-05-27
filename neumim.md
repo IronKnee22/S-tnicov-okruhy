@@ -60,4 +60,14 @@ Mapování amplitudy a frekvence.
 Pořádně se naučit furiorovy transformaci
 Komprese dat
 
+# Počítačové sítě
+Protokol ARP
+NAT
+
+# Softwarové inženýrstvý
+Druhy testů
+
+# Právo a bezpečnost v IT
+
+
 
